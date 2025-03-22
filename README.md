@@ -41,5 +41,4 @@ Rejoin le server discord https://discord.gg/ydjXR4Qzjp pour obtenir du soutien.
 
 ## Author
 - [DavalarDev](https://github.com/davalardev/)
-- [Studio AlarMilts](https://github.com/studio-alarmilts/)om/davalardev/)
 - [Studio AlarMilts](https://github.com/studio-alarmilts/)
