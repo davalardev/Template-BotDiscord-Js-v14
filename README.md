@@ -25,7 +25,6 @@ npm instal
     logChannelID: 'id', // Remplace par l'ID du salon où tu veux envoyer les logs
 
 }
-}
 ```
 
 ## Installation
